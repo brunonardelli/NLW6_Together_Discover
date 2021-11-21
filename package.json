@@ -1,0 +1,27 @@
+{
+  "name": "NLW6_Together_Discover",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuários direcionadas ao dono da página. Projeto desenvolvido na semana NLW-06 na missão discover",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunonardelli/NLW6_Together_Discover.git"
+  },
+  "keywords": [],
+  "author": "Bruno Nardelli Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunonardelli/NLW6_Together_Discover/issues"
+  },
+  "homepage": "https://github.com/brunonardelli/NLW6_Together_Discover#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
